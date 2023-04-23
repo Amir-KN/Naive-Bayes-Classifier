@@ -6,3 +6,4 @@ In Naive Bayes, we consider the categories as the father of all features and ass
 ```math
 P(c|X) = P(c) * P(x_{1}|c) * P(x_{2}|c) * P(x_{3}|c) * ...
 ```
+You can see complete description in `report` file.
